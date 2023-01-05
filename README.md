@@ -15,7 +15,7 @@
      <!-- Twitter -->
  	<a href="https://twitter.com/Viniciu88792935" target="_blank"><img src="https://img.shields.io/badge/Twitter-339CFF?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
    <!-- Discord -->
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discordapp.com/users/420695334155452423" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
 ![Snake animation](https://github.com/ViniciusRed/ViniciusRed/blob/output/github-contribution-grid-snake.svg)
  
