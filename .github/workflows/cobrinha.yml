@@ -19,12 +19,9 @@ jobs:
     timeout-minutes: 10
     
     steps:
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
-    
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
