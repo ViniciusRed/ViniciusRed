@@ -2,19 +2,19 @@
 
 ## 👋 Welcome to my profile
 
-<img src="https://komarev.com/ghpvc/?username=ViniciusRed&color=7c3aed&style=flat-square&label=Views" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Red4Hack&color=7c3aed&style=flat-square&label=Views" alt="profile views"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ViniciusRed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&cache_seconds=172800"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=172800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Red4Hack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&cache_seconds=172800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Red4Hack&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=172800"/>
 
 <br><br>
 
 <a href="https://www.youtube.com/channel/UCbubQMQ5ISLTQIasmS3htiw" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=18181b&cacheSeconds=172800" alt="YouTube"/>
 </a>
-<a href="https://www.twitch.tv/Vinicius_Red12" target="_blank">
+<a href="https://www.twitch.tv/red4hack" target="_blank">
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=18181b&cacheSeconds=172800" alt="Twitch"/>
 </a>
 <a href="https://twitter.com/Red4Hack" target="_blank">
@@ -26,6 +26,6 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/ViniciusRed/ViniciusRed/output/github-snake-dark.svg" alt="Snake animation" width="800"/>
+<img src="https://raw.githubusercontent.com/Red4Hack/Red4Hack/output/github-snake-dark.svg" alt="Snake animation" width="800"/>
 
 </div>
